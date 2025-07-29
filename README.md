@@ -1,11 +1,11 @@
 # Employee-Salary-Prediction
-## **💼 Employee Salary Prediction using Supervised Machine Learning Algorithms**
+## ** Employee Salary Prediction using Supervised Machine Learning Algorithms**
 
 This project demonstrates the practical use of supervised machine learning models (**Linear Regression** and **Random Forest Regressor)** to estimate employee salaries based on experience, education, job role, department, and performance. The project features an intuitive **Streamlit web app** with real-time predictions, interactive visualizations (radar charts, bar charts, and model comparisons), and downloadable PDF reports.
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Automated Salary Prediction**: Uses supervised machine learning algorithms for accurate predictions.
 - **Two ML Models**: Choose between **Linear Regression** and **Random Forest Regressor**.
@@ -19,14 +19,14 @@ This project demonstrates the practical use of supervised machine learning model
 
 ---
 
-## 📁 Files in This Repo
+## Files in This Repo
 
 - `Employee Salary Prediction Project.ipynb` – Main Jupyter notebook for model building and evaluation.
 - `complex_employee_data.csv` – Dataset used for training
 
 ---
 
-## ▶️ How to Run (Google Colab with ngrok)
+## How to Run (Google Colab with ngrok)
 
 1. **Open the Notebook:**
     
@@ -57,7 +57,7 @@ This project demonstrates the practical use of supervised machine learning model
 
 ---
 
-## 📊 Sample Output
+## Sample Output
 
 - Predicted salary for uploaded employee data
 - Radar Chart – Employee Input Overview
