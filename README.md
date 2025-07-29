@@ -1,5 +1,5 @@
 # Employee-Salary-Prediction
-## ** Employee Salary Prediction using Supervised Machine Learning Algorithms **
+## **Employee Salary Prediction using Supervised Machine Learning Algorithms**
 
 This project demonstrates the practical use of supervised machine learning models (**Linear Regression** and **Random Forest Regressor)** to estimate employee salaries based on experience, education, job role, department, and performance. The project features an intuitive **Streamlit web app** with real-time predictions, interactive visualizations (radar charts, bar charts, and model comparisons), and downloadable PDF reports.
 
